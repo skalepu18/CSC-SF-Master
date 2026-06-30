@@ -9,5 +9,4 @@ public class AccountHandler {
 // Add on 30th June
 // Added in Feature - XXX-102
 // Added New - UAT
-// Added in Feature - XXX-103
 }
